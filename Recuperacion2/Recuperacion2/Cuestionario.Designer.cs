@@ -44,10 +44,13 @@
             // textBox1
             // 
             this.textBox1.BackColor = System.Drawing.Color.White;
+            this.textBox1.Cursor = System.Windows.Forms.Cursors.No;
+            this.textBox1.Enabled = false;
             this.textBox1.Font = new System.Drawing.Font("Times New Roman", 25.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox1.Location = new System.Drawing.Point(-10, 48);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
+            this.textBox1.ReadOnly = true;
             this.textBox1.Size = new System.Drawing.Size(1214, 64);
             this.textBox1.TabIndex = 0;
             this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
@@ -149,6 +152,7 @@
             this.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1167, 990);
+            this.ControlBox = false;
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.button1);
@@ -157,6 +161,7 @@
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.textBox1);
+            this.Cursor = System.Windows.Forms.Cursors.Hand;
             this.DoubleBuffered = true;
             this.MaximizeBox = false;
             this.MinimizeBox = false;

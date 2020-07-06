@@ -22,5 +22,12 @@ namespace Recuperacion2
             Cuestionario pr = new Cuestionario();
             pr.ShowDialog();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Login ventana = new Login();
+
+            ventana.Show();
+        }
     }
 }

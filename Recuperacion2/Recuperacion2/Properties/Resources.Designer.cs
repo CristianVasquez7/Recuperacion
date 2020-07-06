@@ -93,6 +93,26 @@ namespace Recuperacion2.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _93631 {
+            get {
+                object obj = ResourceManager.GetObject("93631", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap black_x_png_8 {
+            get {
+                object obj = ResourceManager.GetObject("black-x-png-8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Fondo {
             get {
                 object obj = ResourceManager.GetObject("Fondo", resourceCulture);
@@ -134,6 +154,37 @@ namespace Recuperacion2.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap png_clipart_computer_icons_minimize_angle_text {
+            get {
+                object obj = ResourceManager.GetObject("png-clipart-computer-icons-minimize-angle-text", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap png_clipart_line_font_hyphen_rectangle_black {
+            get {
+                object obj = ResourceManager.GetObject("png-clipart-line-font-hyphen-rectangle-black", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap png_transparent_dash_hyphen_at_sign_plus_and_minus_signs_minus_angle_text_rectangle {
+            get {
+                object obj = ResourceManager.GetObject("png-transparent-dash-hyphen-at-sign-plus-and-minus-signs-minus-angle-text-rectang" +
+                        "le", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap png_transparent_green_leaves_branch_green_leaf_leaves_watercolor_leaves_leaf_branch {
             get {
                 object obj = ResourceManager.GetObject("png-transparent-green-leaves-branch-green-leaf-leaves-watercolor-leaves-leaf-bran" +
@@ -149,6 +200,17 @@ namespace Recuperacion2.Properties {
             get {
                 object obj = ResourceManager.GetObject("png-transparent-green-leaves-illustration-banana-leaf-green-banana-leaf-frame-fra" +
                         "me-golden-frame-leaf", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap png_transparent_ocr_a_hyphen_minus_character_font_others_rectangle_black_apostrophe {
+            get {
+                object obj = ResourceManager.GetObject("png-transparent-ocr-a-hyphen-minus-character-font-others-rectangle-black-apostrop" +
+                        "he", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -229,6 +291,36 @@ namespace Recuperacion2.Properties {
         internal static System.Drawing.Bitmap pngocean1 {
             get {
                 object obj = ResourceManager.GetObject("pngocean1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pngwing_com {
+            get {
+                object obj = ResourceManager.GetObject("pngwing.com", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pngwing_com__1_ {
+            get {
+                object obj = ResourceManager.GetObject("pngwing.com (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pngwing_com__2_ {
+            get {
+                object obj = ResourceManager.GetObject("pngwing.com (2)", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

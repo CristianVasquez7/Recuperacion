@@ -118,32 +118,29 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Zed.full.2183265" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Zed.full.2183265.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="62b6eb66f6f02ab337306b7ae96afdb6-emblema-retro-cinta-etiqueta-by-vexels" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\62b6eb66f6f02ab337306b7ae96afdb6-emblema-retro-cinta-etiqueta-by-vexels.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="pngocean1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pngocean.com1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="yellow" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\yellow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="pngocean.com (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngocean.com (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="pngocean.com (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pngocean.com (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="label-vintage-png-1-original1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\label-vintage-png-1-original1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="PORTADA 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PORTADA 2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="white" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\white.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="pngwing.com" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngwing.com.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngwing.com (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngwing.com (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Fondo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Fondo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="PORTADA" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\PORTADA.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="pngocean.com (6)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pngocean.com (6).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="png-transparent-dash-hyphen-at-sign-plus-and-minus-signs-minus-angle-text-rectangle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\png-transparent-dash-hyphen-at-sign-plus-and-minus-signs-minus-angle-text-rectangle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="pngocean.com (4)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pngocean.com (4).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -151,37 +148,67 @@
   <data name="png-transparent-green-leaves-branch-green-leaf-leaves-watercolor-leaves-leaf-branch" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\png-transparent-green-leaves-branch-green-leaf-leaves-watercolor-leaves-leaf-branch.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="2a6633d5b246d187759e267202bf235d" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\2a6633d5b246d187759e267202bf235d.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="pngocean1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngocean.com1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="pngocean.com (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pngocean.com (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="kisspng-picture-frames-image-portable-network-graphics-dig-5c5bef26139df6.3195982515495288700804" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\kisspng-picture-frames-image-portable-network-graphics-dig-5c5bef26139df6.3195982515495288700804.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="62b6eb66f6f02ab337306b7ae96afdb6-emblema-retro-cinta-etiqueta-by-vexels" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\62b6eb66f6f02ab337306b7ae96afdb6-emblema-retro-cinta-etiqueta-by-vexels.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="label-vintage-png-1-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\label-vintage-png-1-original.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="pngocean.com (5)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pngocean.com (5).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="png-transparent-green-leaves-illustration-banana-leaf-green-banana-leaf-frame-frame-golden-frame-leaf" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\png-transparent-green-leaves-illustration-banana-leaf-green-banana-leaf-frame-frame-golden-frame-leaf.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="93631" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\93631.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="423-4232513_vinilo-marco-de-lazos-abstractos-transparent-border-for" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\423-4232513_vinilo-marco-de-lazos-abstractos-transparent-border-for.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="pngocean.com" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pngocean.com.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="kisspng-picture-frames-image-portable-network-graphics-dig-5c5bef26139df6.3195982515495288700804" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kisspng-picture-frames-image-portable-network-graphics-dig-5c5bef26139df6.3195982515495288700804.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="label-vintage-png-1-original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\label-vintage-png-1-original.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="black-x-png-8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\black-x-png-8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="png-clipart-computer-icons-minimize-angle-text" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\png-clipart-computer-icons-minimize-angle-text.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Zed.full.2183265" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Zed.full.2183265.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="yellow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yellow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="label-vintage-png-1-original1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\label-vintage-png-1-original1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="png-transparent-ocr-a-hyphen-minus-character-font-others-rectangle-black-apostrophe" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\png-transparent-ocr-a-hyphen-minus-character-font-others-rectangle-black-apostrophe.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PORTADA" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PORTADA.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="white" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\white.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="2a6633d5b246d187759e267202bf235d" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2a6633d5b246d187759e267202bf235d.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="pngocean.com (7)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pngocean.com (7).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="PORTADA 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\PORTADA 2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="png-transparent-green-leaves-illustration-banana-leaf-green-banana-leaf-frame-frame-golden-frame-leaf" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\png-transparent-green-leaves-illustration-banana-leaf-green-banana-leaf-frame-frame-golden-frame-leaf.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngocean.com" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngocean.com.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngocean.com (5)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngocean.com (5).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="png-clipart-line-font-hyphen-rectangle-black" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\png-clipart-line-font-hyphen-rectangle-black.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngocean.com (6)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngocean.com (6).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngwing.com (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngwing.com (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
