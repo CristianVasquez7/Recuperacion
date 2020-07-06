@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recuperacion2", "Recuperacion2\Recuperacion2.csproj", "{5B8CA1CE-53EE-4C93-95D7-BDF539741ADC}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalador de cuestionario", "Instalador de cuestionario\Instalador de cuestionario.vdproj", "{20454851-EE7E-46C9-ADD3-67CF5254E91B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{5B8CA1CE-53EE-4C93-95D7-BDF539741ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B8CA1CE-53EE-4C93-95D7-BDF539741ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B8CA1CE-53EE-4C93-95D7-BDF539741ADC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20454851-EE7E-46C9-ADD3-67CF5254E91B}.Debug|Any CPU.ActiveCfg = Debug
+		{20454851-EE7E-46C9-ADD3-67CF5254E91B}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
